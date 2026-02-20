@@ -196,7 +196,8 @@ body {
 .links {
   display: flex;
   justify-content: center;
-  gap: 2rem;
+  column-gap: 2rem;
+  row-gap: 0.75rem;
   flex-wrap: wrap;
 }
 
@@ -299,7 +300,8 @@ body {
   }
 
   .links {
-    gap: 1.5rem;
+    column-gap: 1.5rem;
+    row-gap: 0.75rem;
   }
 }
 
@@ -320,6 +322,10 @@ body {
     flex-direction: column;
     align-items: center;
     gap: 1.25rem;
+  }
+
+  .links-break {
+    display: none;
   }
 
   .link {
