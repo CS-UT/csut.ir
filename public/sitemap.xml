@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://csut.ir/en</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://csut.ir/en"/>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://csut.ir/fa"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://csut.ir/en"/>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://csut.ir/fa</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://csut.ir/en"/>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://csut.ir/fa"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://csut.ir/en"/>
+    <priority>1.0</priority>
+  </url>
+</urlset>
