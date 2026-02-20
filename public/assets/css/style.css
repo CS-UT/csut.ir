@@ -218,6 +218,7 @@ body {
 .link:nth-child(3) { animation-delay: 1300ms; }
 .link:nth-child(4) { animation-delay: 1400ms; }
 .link:nth-child(5) { animation-delay: 1500ms; }
+.link:nth-child(6) { animation-delay: 1600ms; }
 
 .link:hover {
   color: var(--accent);
